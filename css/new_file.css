@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "ty";
+	src: url(../font/yyt03.ttf);
+}
+
+h1{
+	color: blue;
+	font-family: "ty";
+	text-align: center;
+}
